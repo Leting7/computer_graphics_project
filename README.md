@@ -1,1 +1,1 @@
-# compuer_graphics_project
+# computer_graphics_project
